@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://itsmeurjo.github.io/portfolio/sitemap.xml
